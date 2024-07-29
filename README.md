@@ -2,9 +2,9 @@
 
 Boas vindas ao meu perfil 💙
 
-Meu nome é Roberta Eleonay da Silva
+Meu nome é **Roberta Eleonay da Silva**
 
-Estou estudando na Alura
+Estou estudando na Alura 
 
 Estou me desenvolvendo na linguagem JavaScript
 
